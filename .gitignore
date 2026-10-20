@@ -1,0 +1,17 @@
+# Runtime data & logs
+order_followup.db
+*.log
+
+# Packaged artifacts
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor / workspace
+.freebuff/
+.vscode/
+.DS_Store
